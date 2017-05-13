@@ -1,0 +1,1 @@
+json.array! @ahmeds, partial: 'ahmeds/ahmed', as: :ahmed

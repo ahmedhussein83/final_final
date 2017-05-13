@@ -1,0 +1,2 @@
+module AhmedsHelper
+end
