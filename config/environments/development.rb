@@ -1,10 +1,10 @@
 Rails.application.configure do
-  config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
+  config.action_mailer.default_url_options = { host: 'https://final-final-ahmed83.c9users.io'}
   config.action_mailer.smtp_settings = {
        :address              => "smtp.gmail.com",
        :port                 =>  587,
-       :user_name            => 'PUT YOUR E-MAIL USER NAME HERE',
-       :password             =>  'PUT YOUR E-MAIL PASSWORD HERE',
+       :user_name            => 'ahmed.alshatawi',
+       :password             =>  '8271395Ah',
        :authentication       => 'plain',
        :enable_starttls_auto => true  }
   config.cache_classes = false
